@@ -1,0 +1,2 @@
+# SwordsAndSandalsClassicEdition-Installer
+SwordsAndSandalsClassicEdition-Installer by RikkoMatsumatoOfficial
